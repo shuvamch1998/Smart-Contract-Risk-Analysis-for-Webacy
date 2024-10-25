@@ -1,4 +1,5 @@
 Smart Contract Risk and Cluster Analysis
+
 This repository contains a comprehensive analysis of smart contracts, focusing on risk profiling and clustering techniques. The project applies various clustering algorithms to assess the risk of different contract clusters, utilizing both statistical and machine learning methods. The aim is to provide actionable insights for risk mitigation in smart contracts.
 
 Project Overview
